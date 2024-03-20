@@ -6,7 +6,10 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Problem Statement and Dataset
 The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9 inclusively. To achieve this, we can use the MNIST dataset which is a collection of 60,000 handwritten digits of size 28 X 28. In order to classify these images to their appropriate numerical value, we can build a convolutional neural network model.
+![Screenshot 2024-03-20 093336](https://github.com/guru14789/mnist-classification/assets/151705853/bd9eec12-5cf1-40cd-b8e8-ac92c415ceb4)
+
 ## Neural Network Model
+![Screenshot 2024-03-20 093303](https://github.com/guru14789/mnist-classification/assets/151705853/887cd3bd-bca3-4921-afc8-718acdd9463d)
 
 
 ## DESIGN STEPS
